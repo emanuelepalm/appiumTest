@@ -29,7 +29,7 @@ public class ManagementDriver {
 
     public static void startAppium(DesiredCapabilities desiredCapabilities) {
         try {
-            androidDriver = new AndroidDriver<>(new URL("http://127.0.0.1:4723/wd/hub/"), desiredCapabilities);
+            androidDriver = new AndroidDriver<>(new URL("http://0.0.0.0:4723/wd/hub/"), desiredCapabilities);
 
         } catch (MalformedURLException e) {
             e.printStackTrace();
