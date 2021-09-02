@@ -1,0 +1,2 @@
+com/palmieri/Test_MOBILE_001.java
+ com.palmieri.Test_MOBILE_001
