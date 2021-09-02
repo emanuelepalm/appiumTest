@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.palmieri.Test_MOBILE_001" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-09-02T14:37:16" hostname="LAPTOP-G9F3REPR" time="0.424">
+  <properties/>
+  <testcase name="Login OK" classname="com.palmieri.Test_MOBILE_001" time="0.424"/>
+  <system-out><![CDATA[appost
+]]></system-out>
+  <system-err><![CDATA[Sep 02, 2021 4:37:15 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+Sep 02, 2021 4:37:16 PM com.relevantcodes.extentreports.ExtentReports loadConfig
+WARNING: Unable to perform report configuration. The file D:\Users\Emanuele Palmieri\Desktop\appiumTest\report_config.xml was not found.
+]]></system-err>
+</testsuite>
